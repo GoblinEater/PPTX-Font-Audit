@@ -28,7 +28,6 @@ Output is available as a **console report** (summary + slide-by-slide detail) an
 
 ![Font Audit Console Output](docs/screenshot.png)
 
-
 ---
 
 ## Quick Start
