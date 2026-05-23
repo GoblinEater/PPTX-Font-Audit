@@ -98,8 +98,8 @@ pip install python-pptx
 ### 3. Clone this repo
 
 ```bash
-git clone https://github.com/GoblinEater/font-audit-pptx.git
-cd font-audit-pptx
+git clone https://github.com/GoblinEater/PPTX-Font-Audit.git
+cd PPTX-Font-Audit
 ```
 
 ### 4. Run it
