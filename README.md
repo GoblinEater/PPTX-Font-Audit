@@ -26,8 +26,7 @@ Output is available as a **console report** (summary + slide-by-slide detail) an
 
 ## Screenshot
 
-<!-- Add a screenshot of the console output or CSV here -->
-<!-- ![Font Audit Console Output](docs/screenshot.png) -->
+![Font Audit Console Output](docs/screenshot.png)
 
 *Add a screenshot: run the tool on a deck, capture the terminal output, save it as `docs/screenshot.png`*
 
